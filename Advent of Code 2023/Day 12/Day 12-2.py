@@ -95,6 +95,7 @@ def main():
     # Part 1
     # 7251 copied -_-
     # Part 2
+    # 2128386729962
     
     t = process_time()
     print(f"elapsed: {(datetime.timedelta( seconds=t ) )}")
